@@ -20,5 +20,8 @@
 登录状态访问 /login 会跳转到 /home
 不存在的页面跳转到 /notFound
 
+测试账号：admin
+测试密码：admin
+
 
 
